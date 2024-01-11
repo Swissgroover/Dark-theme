@@ -19,8 +19,8 @@
 
 This section contains list of VS code extensions used in Theme.
 
-* [![bearded-icons]][Next-url]
-* [![Bluloco Dark]][React-url]
+* [![bearded-icons][bearded-icons]]
+* [![Bluloco Dark][Bluloco Dark]]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

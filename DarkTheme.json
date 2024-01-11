@@ -1,0 +1,226 @@
+{
+  "liveServer.settings.donotVerifyTags": true,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "files.autoSave": "onFocusChange",
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.cursorBlinking": "solid",
+  "git.enableSmartCommit": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.autofetch": true,
+  "codestream.email": "",
+  "explorer.confirmDelete": false,
+  "tailwindCSS.emmetCompletions": true,
+  "eslint.alwaysShowStatus": true,
+  "eslint.format.enable": true,
+  "eslint.run": "onSave",
+  "eslint.validate": [
+    "javascript",
+    "vue",
+    "typescript"
+  ],
+  "vetur.validation.template": false,
+  "[vue]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.autoClosingBrackets": "always",
+  "editor.wordWrapColumn": 1000,
+  "html.format.wrapLineLength": 0,
+  "explorer.confirmDragAndDrop": false,
+  "settingsSync.ignoredSettings": [
+    "workbench.colorTheme"
+  ],
+  "diffEditor.ignoreTrimWhitespace": false,
+  "terminal.integrated.lineHeight": 4,
+  "markdown.preview.lineHeight": 1.8,
+  "editor.letterSpacing": 0.4,
+  "workbench.startupEditor": "none",
+  "workbench.iconTheme": "bearded-icons",
+  "redhat.telemetry.enabled": true,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "entity.name.tag.block.any.html",
+        "settings": {
+          "foreground": "#C55B94"
+        }
+      },
+      {
+        "scope": "support.class.component.html",
+        "settings": {
+          "foreground": "#C55B94"
+        }
+      },
+      {
+        "scope": "string.quoted.double.html",
+        "settings": {
+          "foreground": "#5B9DC1"
+        }
+      },
+      {
+        "scope": "entity.other.attribute-name.html",
+        "settings": {
+          "foreground": "#AEB9C6"
+        }
+      },
+      {
+        "scope": "entity.name.tag.template.html",
+        "settings": {
+          "foreground": "#C55B94"
+        }
+      },
+      {
+        "scope": "entity.name.tag.html",
+        "settings": {
+          "foreground": "#C55B94"
+        }
+      },
+      {
+        "scope": "text.html.vue-html",
+        "settings": {
+          "foreground": "#E7EAEE"
+        }
+      },
+      {
+        "scope": "string.quoted.single.php",
+        "settings": {
+          "foreground": "#E7EAEE"
+        }
+      },
+      {
+        "scope": "punctuation.definition.string.begin.php",
+        "settings": {
+          "foreground": "#57677C"
+        }
+      },
+      {
+        "scope": "punctuation.definition.string.end.php",
+        "settings": {
+          "foreground": "#57677C"
+        }
+      },
+      {
+        "scope": "punctuation.definition.tag.begin.html",
+        "settings": {
+          "foreground": "#57677C"
+        }
+      },
+      {
+        "scope": "meta.tag.block.any.html",
+        "settings": {
+          "foreground": "#57677C"
+        }
+      },
+      {
+        "scope": "punctuation.definition.tag.end.html",
+        "settings": {
+          "foreground": "#57677C"
+        }
+      },
+      {
+        "scope": "punctuation.definition.string.begin.html",
+        "settings": {
+          "foreground": "#57677C"
+        }
+      },
+      {
+        "scope": "punctuation.definition.string.end.html",
+        "settings": {
+          "foreground": "#57677C"
+        }
+      },
+      {
+        "scope": "constant.character.escape.json",
+        "settings": {
+          "foreground": "#C55B94"
+        }
+      },
+      {
+        "scope": "support.class.php",
+        "settings": {
+          "foreground": "#5B9DC1"
+        }
+      },
+      {
+        "scope": "entity.name.function.php",
+        "settings": {
+          "foreground": "#C55B94"
+        }
+      },
+      {
+        "scope": "support.type.property-name.json",
+        "settings": {
+          "foreground": "#5B9DC1"
+        }
+      },
+      {
+        "scope": "entity.name.type.class",
+        "settings": {
+          "foreground": "#C55B94"
+        }
+      },
+      {
+        "scope": "variable.other.property.js",
+        "settings": {
+          "foreground": "#5B9DC1"
+        }
+      },
+      {
+        "scope": "variable.other.object.property.js",
+        "settings": {
+          "foreground": "#7A82DA"
+        }
+      },
+      {
+        "scope": "source.shell",
+        "settings": {
+          "foreground": "#5B9DC1"
+        }
+      }
+    ]
+  },
+  "editor.padding.top": 32,
+  "workbench.editor.decorations.colors": false,
+  "workbench.tree.indent": 12,
+  "editor.accessibilityPageSize": 16,
+  "editor.lineHeight": 2.4,
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairsHorizontal": false,
+  "editor.wordWrap": "on",
+  "editor.guides.highlightActiveBracketPair": false,
+  "editor.guides.highlightActiveIndentation": false,
+  "zenMode.centerLayout": false,
+  "git.ignoreRebaseWarning": true,
+  "workbench.colorTheme": "Bluloco Dark",
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": false,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "workbench.layoutControl.enabled": false,
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "editor.fontSize": 14,
+  "editor.fontVariations": false,
+  "workbench.editor.enablePreview": false,
+  "html.format.templating": true,
+  "editor.formatOnType": true,
+  "html.format.extraLiners": "",
+  "html.format.enable": true,
+  "html.format.indentHandlebars": true,
+  "html.format.indentInnerHtml": true,
+  "json.format.keepLines": true,
+  "json.format.enable": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.accessibilitySupport": "off"
+}

@@ -4,7 +4,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="images/js.png" alt="Logo" width="80" height="80">
+    <img src="images/js.png" alt="Logo" width="150" height="150">
 
   <h3 align="center">Dark Theme</h3>
 
@@ -29,9 +29,9 @@ This section contains list of VS code extensions used in Theme.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-<img src="images/js.png" alt="Logo" width="80" height="80">
-<img src="images/php.png" alt="Logo" width="80" height="80">
-<img src="images/vue.png" alt="Logo" width="80" height="80">
+<img src="images/js.png" alt="Logo" width="150" height="150">
+<img src="images/php.png" alt="Logo" width="150" height="150">
+<img src="images/vue.png" alt="Logo" width="150" height="150">
 
 
 
